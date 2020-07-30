@@ -3,6 +3,6 @@ print('hi')
 f = input("Are you om?")
 
 if f == 'Yes' or 'yes' or 'YES':
-    print("YO")
+    print("F")
 else:
-    print("Uhh. okay...")
+    print("Ok good. Good thing you are not Om")
